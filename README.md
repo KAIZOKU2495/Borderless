@@ -108,9 +108,9 @@ Project built using Agile (Scrum/SAFe) methodologies with:
 
 ## 👨‍💻 Author
 
-**Name:** [Your Name]  
-**LinkedIn:** [linkedin.com/in/yourprofile](#)  
-**Email:** [youremail@example.com](#)
+**Name:** Sai Pradyumna Maddali  
+**LinkedIn:** https://www.linkedin.com/in/saipradyumna-maddali/  
+**Email:** Pradyumna.arun.007@gmail.com
 
 ---
 
